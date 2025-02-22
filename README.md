@@ -1,8 +1,18 @@
-# React + Vite
+# Crypto Tracker 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based cryptocurrency tracking app that fetches real-time data using the [CoinGecko API](https://www.coingecko.com/en/api). The app allows users to:
 
-Currently, two official plugins are available:
+✅ View real-time cryptocurrency prices  
+✅ Search for any cryptocurrency  
+✅ View historical charts for up to 10 days  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖥️ Features
+- **Live Cryptocurrency Data**: Fetches real-time data from the CoinGecko API.
+- **Interactive Charts**: Displays price trends using dynamic charts.
+- **Search Functionality**: Find any cryptocurrency instantly.
+
+## 🛠️ Technologies Used
+- **React.js** – Frontend framework
+- **CoinGecko API** – Fetching real-time crypto data
+- **google-chart** – For displaying historical price trends
+- **Tailwind CSS** – Styling the application
